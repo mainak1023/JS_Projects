@@ -1,1 +1,1 @@
-Here I've uploaded some of my JS projects, that I've done during the summer 2024!
+Here I've uploaded here some of my HTML, CSS & JS projects, that I've made during the summer 2024!
